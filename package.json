@@ -1,5 +1,5 @@
 {
-  "name": "travis-test",
+  "name": "@travis-test/travis-test",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
