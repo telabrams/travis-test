@@ -1,8 +1,5 @@
 language: node_js
 
-script:  
-  - npm run postinstall
-
 deploy:
   provider: npm
   email:
